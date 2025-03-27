@@ -1,0 +1,4 @@
+dir str :
+
+
+mkdir bird-strike-detection && cd bird-strike-detection && mkdir data models notebooks src tests && cd src && type nul > __init__.py && type nul > data_processing.py && type nul > model.py && type nul > train.py && type nul > predict.py && type nul > utils.py && cd .. && type nul > requirements.txt && type nul > .gitignore && type nul > README.md
